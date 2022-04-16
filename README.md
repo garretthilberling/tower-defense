@@ -10,7 +10,7 @@
 * [Credits](#Credits)
 
 ## Description
-Tower Defense is a game based based on a game you may have heard of called *Plants vs. Zombies*. The languages and technologies used to build this application are: HTML, CSS, JavaScript, ES6, & the canvas element. 
+Tower Defense is a browser game based on another game you may have heard of called *Plants vs. Zombies*. The languages and technologies used to build this application are: HTML, CSS, JavaScript, ES6, & the canvas element. 
 
 ## Usage
 Defend the base! As enemies rush in, place your defenders to fight them off. They automatically shoot when an enemy is in front of them. Hover over the yellow blocks to receive bonus points you can use to place more defenders. If the enemies reach your base on the left side of the screen, game over!
