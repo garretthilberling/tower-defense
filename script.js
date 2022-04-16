@@ -11,7 +11,7 @@ let enemiesInterval = 600;
 let frame = 0;
 let gameOver = false;
 let score = 0;
-const winningScore = 100;
+const winningScore = 1000;
 
 const gameGrid = [];
 const defenders = [];
@@ -296,7 +296,7 @@ function animate() {
 }
 animate();
 
-function collision (first, second) {
+function collision (first, second) { //really cool!!
     if (    !(  first.x > second.x + second.width ||  
                 first.x + first.width < second.x ||
                 first.y > second.y + second.height ||
